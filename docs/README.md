@@ -7,6 +7,7 @@ OctoAcme runs projects through a lightweight, repeatable lifecycle: Initiation �
 Roles and ownership are explicit: Product Managers focus on outcomes and prioritization, Project Managers coordinate delivery and communications, Developers implement and test, QA validates acceptance criteria, and Stakeholders provide inputs and approvals. Key artifacts — project charter/one‑pager, roadmap and release plan, sprint backlog, risk register, and retrospective action items — capture decisions and make responsibilities traceable.
 
 Communication follows a predictable cadence to keep alignment and surface risks: daily standups for the delivery team, weekly PM + PdM syncs, regular demos, and monthly stakeholder updates. Quality and risk management are embedded in the workflow: unit/integration tests, end‑to‑end smoke tests before releases, CI security scans, a living risk register with owners and mitigations, and an incident/rollback playbook. Retrospectives close the loop by converting learnings into tracked action items so the process continuously improves.
+This is an Improvement
 
 ## Docs Index
 
